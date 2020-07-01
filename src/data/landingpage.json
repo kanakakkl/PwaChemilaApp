@@ -1,0 +1,45 @@
+    [
+        {
+            "icons":[{
+                "title": null,
+                "description": "Easy access to chemical information",
+                "imagesrc":"../LandingPageAssets/Easy Acces to Chemical Info.svg",
+                "imagePosition": "top_center",
+                "textPosition": "center"
+            },{
+                "title": null,
+                "description": "Constantly updated",
+                "imagesrc":"../LandingPageAssets/Constantly Updated.svg",
+                "imagePosition": "top_center",
+                "textPosition": "center"
+            }]
+        },
+        {
+            "title": "How Does It Work?",
+            "description": null,
+            "imagesrc": "../LandingPageAssets/How Does It Work_.svg",
+            "imagePosition": "center",
+            "textPosition": "top_center"
+        },
+        {
+            "title": "Chemical information with one search",
+            "description": "Chemilea is the world’s first chemical directory to provide chemical information and properties. You can search chemicals by their common name, SMILES Code, InChl or CAS number.\n \n With this chemical directory, you can find physical and chemical properties, safety information, toxicity levels, biological activities and much more",
+            "imagesrc": "../LandingPageAssets/Second Illustration.svg",
+            "imagePosition": "right",
+            "textPosition": "left"
+        },
+        {
+            "title": "Doesn’t show",
+            "description": "Chemilea is not a supplier directory and doesn’t show information of chemical suppliers. \n It allows you to find the information of a chemical, ranging from nomenclature to complete details of its physical and chemical behaviour",
+            "imagesrc": "../LandingPageAssets/Third Illustration.svg",
+            "imagePosition": "left",
+            "textPosition": "right"
+        },
+        {
+            "title": "A Carbanio Initiative",
+            "description": "Chemilea is an initiative of Carbanio.com, which has already flourished as India’s largest B2B Chemical Marketplace with more than 5 million products listed by chemical suppliers across India.",
+            "imagesrc": "../LandingPageAssets/Fouth Illustration.svg",
+            "imagePosition": "right",
+            "textPosition": "left"
+        }
+    ]

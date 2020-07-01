@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+.descCls{
+    font-family: Muli;
+    white-space: Pre-line;
+    margin-top: 5%;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.67;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #1b2d4e;
+}
+
+.iconsDescCls{
+    font-size: 12px;
+    color: #313130;
+    font-family: "Muli",sans-serif;
+    font-weight: 200;
+}
+
+.titleCls{
+  font-family: Muli;
+  font-size: 22px;
+  font-weight: bolder;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1b2d4e;
+}
+
+.sectionTitleCls{
+  font-family: Muli;
+  font-size: 32px;
+  font-weight: bolder;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.28;
+  letter-spacing: normal;
+  text-align: left;
+  color: #313130;
+}
+
+.textColor{
+    color: #13a4d1 !important;
+}
+
+.linecls {
+    width: 88px;
+    height: 2px;
+    background-color: #13a4d1;
+    margin: 15px auto;
+  }
+  .btncls{
+    width: 158px;
+    height: 31px;
+    font-size: 12px !important;
+    font-family: Muli;
+    background-color: #13a4d1 !important;
+    padding-block-start: 6px;
+    margin: 35px 10px;
+    border-radius: 47px !important;
+    border: none;
+  }
+  
+  .btnsearchcls{
+    line-height: 0.2 !important;
+    width: 50px;
+    height: 37px;
+    font-size: 14px !important;
+    font-family: Muli;
+    background-color: #13a4d1 !important;
+    padding: 6px;
+    margin-block-start: 43px;
+    margin-inline-start: 1px;
+    border-bottom-right-radius: 17px !important;
+    border-top-right-radius: 17px;
+  }
+
+  .btnoutlinesecondary {
+    color: #000000 !important;
+    border-color: #13a4d1 !important;
+    width: 18px;
+  }
+
+  .displayflex{
+    display: flex;
+  }
+
+  .displayBlock{
+    display: block;
+    margin-top: 40px;
+  }
+
+  .textCls{
+    margin : auto;
+  }
+
+  .floatRight{
+    float: right;
+  }
+
+  .floatLeft{
+    // float: left;
+    margin-left: auto;
+  }
+
+  .inputcls{
+    border-bottom-left-radius: 20px !important;
+    border-top-left-radius: 20px !important;
+    border: solid 1px #13a4d1 !important;
+    font-family: Muli;
+    font-size: 12px;
+  }
+
+  .inputcls:focus{
+    box-shadow: none !important;
+  }
+
+  .inputgroup {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 70% !important;
+  }
+
+  .iconsCls{
+    margin: 6% 0;
+  }
+
+  .cover_page{
+    background-image: url("/LandingPageAssets/Chemilea_Coverpage.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+  }
+
+  .cover_page2{
+    background-image: url("/LandingPageAssets/Right Logo Wordmark.svg");
+    background-repeat: no-repeat;
+    background-position: 106% 60%;
+    background-size: 350px 350px;
+  }
+
+  .searchboxcls{
+    text-align: center;
+    width: 450px;
+    padding: 0;
+    margin: auto;
+    position: relative;
+    top: 40%;
+    transform: translateY(-47%);
+  }
+
+ .sectionImgAnimation{
+    background-image: url(/LandingPageAssets/AnimationBackground.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding: 8% 6%;
+ }
+
+ .sectionArt{
+  width: 300px;
+  height: 300px;
+ }
+
+ .header1_cls{
+  font-size: 19px;
+  font-weight: 400;
+ }
+
+ .header2_cls{
+  font-size: 25px;
+  font-weight: 700;
+ }
